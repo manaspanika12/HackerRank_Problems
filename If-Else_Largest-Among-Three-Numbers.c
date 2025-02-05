@@ -49,8 +49,8 @@ int main() {
         }
     
         }
-    printf("The largest number is : %d",g);
-    
+    printf("The largest number is : %d\n",g);
+    printf("Baigan u");    
     
     return 0;
 }
